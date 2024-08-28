@@ -2,10 +2,8 @@ pandas
 numpy
 matplotlib
 seaborn
-collections
-sklearn
+scikit-learn
 imblearn
-pywt
-scitpy
-csv
-random
+pywavelets
+scipy
+shap
